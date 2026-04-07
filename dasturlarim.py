@@ -122,5 +122,3 @@ import json
             
 #     if python_bor:
 #         print(f"Filial nomi: {branch['name']}")
-
-
